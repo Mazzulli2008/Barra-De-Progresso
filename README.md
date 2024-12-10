@@ -4,6 +4,10 @@
 
 Barra de Progresso estática feita para fins de treinamento.
 
+## Como acessar ❓
+
+É possivel acessar ao projeto e suas informações <button src="https://www.figma.com/design/YeGaJqdSeSxtsQGjSSl1bK/Componente-de-Upload-%E2%80%A2-Desafio-14-(Community)?node-id=306-6200&node-type=frame&t=iUZz7ZLcy3c8oqwI-0">CLICANDO AQUI</button> 
+
 ## Ferramentas 🛠️
 + HTML
 + CSS
